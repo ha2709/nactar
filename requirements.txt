@@ -1,0 +1,8 @@
+torch
+transformers
+datasets
+accelerate
+evaluate
+matplotlib
+scikit-learn
+tqdm
